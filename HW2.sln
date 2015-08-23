@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW2.Logic.Task1", "HW2.Logi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW2.Loops.Task1", "HW2.Loops.Task1\HW2.Loops.Task1.csproj", "{1D33CFAA-6448-4F4C-87C3-7B2942AB425E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW2.Methods.Task1", "HW2.Methods.Task1\HW2.Methods.Task1.csproj", "{C199F361-A351-4F9A-B062-0C70EF865446}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{1D33CFAA-6448-4F4C-87C3-7B2942AB425E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D33CFAA-6448-4F4C-87C3-7B2942AB425E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D33CFAA-6448-4F4C-87C3-7B2942AB425E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C199F361-A351-4F9A-B062-0C70EF865446}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C199F361-A351-4F9A-B062-0C70EF865446}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C199F361-A351-4F9A-B062-0C70EF865446}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C199F361-A351-4F9A-B062-0C70EF865446}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
