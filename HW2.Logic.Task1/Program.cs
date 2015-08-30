@@ -38,15 +38,15 @@ namespace HW2.Logic.Task1
             decimal premium = 0;
             if (exp > 0 && exp < 5)
                 premium = salary * 0.1m;
-            else if (exp >= 5 && exp < 10)
+            else if (exp < 10)
                 premium = salary * 0.15m;
-            else if (exp >= 10 && exp < 15)
+            else if (exp < 15)
                 premium = salary * 0.25m;
-            else if (exp >= 15 && exp < 20)
+            else if (exp < 20)
                 premium = salary * 0.35m;
-            else if (exp >= 20 && exp < 25)
+            else if (exp < 25)
                 premium = salary * 0.45m;
-            else if (exp > 25)
+            else
                 premium = salary * 0.5m;
 
             return premium;
